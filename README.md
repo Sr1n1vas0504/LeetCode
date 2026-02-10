@@ -11,6 +11,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
