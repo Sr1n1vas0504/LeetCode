@@ -36,6 +36,7 @@ Leetcode problems
 | [0485-max-consecutive-ones](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0896-monotonic-array) |
 ## Backtracking
 |  |
 | ------- |
