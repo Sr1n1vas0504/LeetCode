@@ -24,6 +24,7 @@ Leetcode problems
 | [0125-valid-palindrome](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Leetcode problems
 | [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0896-monotonic-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Leetcode problems
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +86,7 @@ Leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sliding Window
 |  |
 | ------- |
