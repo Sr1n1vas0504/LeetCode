@@ -27,6 +27,7 @@ Leetcode problems
 | [0039-combination-sum](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
