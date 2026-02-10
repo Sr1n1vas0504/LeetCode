@@ -29,6 +29,7 @@ Leetcode problems
 | [0053-maximum-subarray](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Leetcode problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -54,4 +56,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
