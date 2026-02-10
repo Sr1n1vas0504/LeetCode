@@ -61,6 +61,7 @@ Leetcode problems
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0771-jewels-and-stones](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
