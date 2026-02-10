@@ -33,6 +33,7 @@ Leetcode problems
 | [0300-longest-increasing-subsequence](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,12 +71,18 @@ Leetcode problems
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
