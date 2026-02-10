@@ -23,6 +23,7 @@ Leetcode problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Leetcode problems
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,4 +90,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
