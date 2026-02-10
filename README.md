@@ -7,6 +7,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -16,4 +17,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
