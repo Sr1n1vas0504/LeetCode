@@ -32,6 +32,7 @@ Leetcode problems
 | [0118-pascals-triangle](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Backtracking
 |  |
 | ------- |
