@@ -21,6 +21,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -49,4 +50,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
