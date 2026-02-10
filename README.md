@@ -21,4 +21,12 @@ Leetcode problems
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
