@@ -22,6 +22,7 @@ Leetcode problems
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Leetcode problems
 | [0054-spiral-matrix](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,4 +62,13 @@ Leetcode problems
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
