@@ -8,6 +8,7 @@ Leetcode problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sr1n1vas0504/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Leetcode problems
 | [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0896-monotonic-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sr1n1vas0504/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0054-spiral-matrix) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sr1n1vas0504/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -82,6 +85,7 @@ Leetcode problems
 | [0645-set-mismatch](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sr1n1vas0504/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +109,16 @@ Leetcode problems
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1291-sequential-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sr1n1vas0504/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sr1n1vas0504/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sr1n1vas0504/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
