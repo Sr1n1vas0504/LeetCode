@@ -27,6 +27,7 @@ Leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1768-merge-strings-alternately](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Leetcode problems
 | [0125-valid-palindrome](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Sr1n1vas0504/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sr1n1vas0504/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
